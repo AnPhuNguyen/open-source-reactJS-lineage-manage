@@ -1,8 +1,17 @@
 # reactjs - lineage tree manage / quản lý cây gia phả
 ## requirement:
 package manager: npm
-basic:         '''npm install'''
-boostrap icon: '''npm install bootstrap bootstrap-icons'''. also refer to https://www.geeksforgeeks.org/reactjs/how-to-use-bootstrap-icons-in-react/
+
+basic:         
+```
+npm install
+```
+
+boostrap icon: 
+```
+npm install bootstrap bootstrap-icons
+``` 
+also refer to https://www.geeksforgeeks.org/reactjs/how-to-use-bootstrap-icons-in-react/
 
 ## warning
 this web app currently has no database, runs on frontend and is not completed.
