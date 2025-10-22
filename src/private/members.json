@@ -1,0 +1,23 @@
+{
+    "1":{
+        "memberId":1,
+        "memberName":"adsf",
+        "gender":false,
+        "note":null
+    },
+    
+    "2":{
+        "memberId":2,
+        "memberName":"jane doe",
+        "gender":true,
+        "note":null
+    },
+
+    "3":{
+        "memberId":3,
+        "memberName":"zcxv",
+        "gender":false,
+        "note":null
+    }
+}
+

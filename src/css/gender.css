@@ -1,0 +1,26 @@
+:root{
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+}
+
+.person{
+    width: 200px;
+    height: 150px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.person img{
+    width: 50px;
+    height: 50px;
+    /* border-radius: 50px; */
+}
+
+.male{
+    background-color: #0dcaf0;
+    background-image: var(--bs-gradient);
+}
+
+.female{
+    background-color: #d63384;
+    background-image: var(--bs-gradient);
+}
